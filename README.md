@@ -10,6 +10,8 @@ You will be able to:
 
 - Fit, tune, and evaluate an XGBoost algorithm
 
+# Check the index.ipynb file for my working
+
 ## Installing XGBoost
 
 Run this lab on your local computer.
